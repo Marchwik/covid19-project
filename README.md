@@ -1,4 +1,4 @@
-# covid19-project
+# COVID91 Project
 In this project I analysed a COVID19 dataset from "Our World In Data" using SQL, and then visualized it using Tableau.
 
 The dataset is still updated daily and it can be found here: https://ourworldindata.org/covid-deaths
